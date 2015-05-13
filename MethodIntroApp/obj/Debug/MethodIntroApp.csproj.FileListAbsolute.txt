@@ -1,0 +1,6 @@
+C:\Users\Web App Develop .Net\Desktop\My Test Dot Net\15.04.15 (Day 01)\MethodIntroApp\MethodIntroApp\bin\Debug\MethodIntroApp.exe.config
+C:\Users\Web App Develop .Net\Desktop\My Test Dot Net\15.04.15 (Day 01)\MethodIntroApp\MethodIntroApp\bin\Debug\MethodIntroApp.exe
+C:\Users\Web App Develop .Net\Desktop\My Test Dot Net\15.04.15 (Day 01)\MethodIntroApp\MethodIntroApp\bin\Debug\MethodIntroApp.pdb
+C:\Users\Web App Develop .Net\Desktop\My Test Dot Net\15.04.15 (Day 01)\MethodIntroApp\MethodIntroApp\obj\Debug\MethodIntroApp.exe
+C:\Users\Web App Develop .Net\Desktop\My Test Dot Net\15.04.15 (Day 01)\MethodIntroApp\MethodIntroApp\obj\Debug\MethodIntroApp.pdb
+C:\Users\Web App Develop .Net\Desktop\My Test Dot Net\15.04.15 (Day 01)\MethodIntroApp\MethodIntroApp\obj\Debug\MethodIntroApp.csprojResolveAssemblyReference.cache
